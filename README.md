@@ -2,8 +2,6 @@
 -------------
 [LeetCode Profile](https://leetcode.com/twinb0rn/)
 
-
-BinarySearch Profile
 [Binarysearch Profile](https://binarysearch.com/@/twinb0rn)   
 
 # About Me
