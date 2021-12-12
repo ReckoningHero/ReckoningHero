@@ -1,11 +1,10 @@
 # The Programmer's Guild Sites
 -------------
-LeetCode Profile
-https://leetcode.com/twinb0rn/
+[LeetCode Profile](https://leetcode.com/twinb0rn/)
+
 
 BinarySearch Profile
-https://binarysearch.com/@/twinb0rn
-
+[Binarysearch Profile](https://binarysearch.com/@/twinb0rn)   
 
 # About Me
 ____________________
