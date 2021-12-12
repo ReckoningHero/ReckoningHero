@@ -2,7 +2,10 @@
 ____________________
 The Programmer's Guild Sites
 -------------
+# LeetCode Profile
 https://leetcode.com/twinb0rn/
+
+# BinarySearch Profile
 https://binarysearch.com/@/twinb0rn
 
 
