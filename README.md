@@ -1,5 +1,3 @@
-# About Me
-____________________
 The Programmer's Guild Sites
 -------------
 # LeetCode Profile
