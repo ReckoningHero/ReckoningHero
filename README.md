@@ -5,13 +5,7 @@
 # Social Media
 -------------
 
-[Discord twinb0rn@7898](https://discordapp.com/users/454490251126374401)
-
-# Pro Server
-<iframe src="https://discord.com/widget?id=793653576395784192&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ReckoningHero.visitorbadge)
+[Discord twinb0rn@7898](https://discordapp.com/users/454490251126374401) - [LinkedIn](https://www.linkedin.com/in/twinb0rn/) -
 
 
 
@@ -25,6 +19,8 @@ Hey there, Welcome to my profile. I have two years of experience in the IT/Devel
 
 # GitHub Stats
 ____________________
-[![ReckoningHero's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReckoningHero&show_icons=true&theme=radical)](https://github.com/ReckoningHero/github-readme-stats)
+<div>
+  <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=ReckoningHero&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReckoningHero&show_icons=true&theme=radical" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReckoningHero&show_icons=true&theme=radical)](https://github.com/ReckoningHero/github-readme-stats)
