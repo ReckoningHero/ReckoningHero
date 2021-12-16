@@ -1,8 +1,18 @@
 # The Programmer's Guild Sites
 -------------
-[LeetCode Profile](https://leetcode.com/twinb0rn/)
+[LeetCode Profile](https://leetcode.com/twinb0rn/) - [Binarysearch Profile](https://binarysearch.com/@/twinb0rn)  
 
-[Binarysearch Profile](https://binarysearch.com/@/twinb0rn)  
+# Social Media
+-------------
+
+[Discord twinb0rn@7898](https://discordapp.com/users/454490251126374401)
+
+# Pro Server
+<iframe src="https://discord.com/widget?id=793653576395784192&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ReckoningHero.visitorbadge)
+
 
 
 # About Me
