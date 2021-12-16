@@ -24,3 +24,4 @@ ____________________
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReckoningHero&show_icons=true&theme=radical" />
 </div>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ReckoningHero.visitorbadge)
