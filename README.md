@@ -2,7 +2,11 @@
 -------------
 [LeetCode Profile](https://leetcode.com/twinb0rn/)
 
-[Binarysearch Profile](https://binarysearch.com/@/twinb0rn)   
+[Binarysearch Profile](https://binarysearch.com/@/twinb0rn)  
+
+# 🏆 GitHub Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ReckoningHero&column=8)](https://github-profile-trophy.vercel.app/?username=ReckoningHero&column=8)
 
 # About Me
 ____________________
