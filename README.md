@@ -1,6 +1,6 @@
 # The Programmer's Guild Sites
 -------------
-[LeetCode Profile](https://leetcode.com/twinb0rn/) - [Binarysearch Profile](https://binarysearch.com/@/twinb0rn)  
+[HackerRank Profile](https://www.hackerrank.com/twinb0rn?hr_r=1) - [LeetCode Profile](https://leetcode.com/twinb0rn/) - [Binarysearch Profile](https://binarysearch.com/@/twinb0rn) - [Remote Profile ](https://remote.com/joshuan) - [Repl.it Profile](https://repl.it/@twinb0rn)
 
 # Social Media
 -------------
