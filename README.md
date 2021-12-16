@@ -10,5 +10,5 @@ Hey there, Welcome to my profile. I have two years of experience in the IT/Devel
 
 # GitHub Stats
 ____________________
-[![ReckoningHero's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReckoningHero)](https://github.com/ReckoningHero/github-readme-stats)
+[![ReckoningHero's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReckoningHero&show_icons=true&theme=radical)](https://github.com/ReckoningHero/github-readme-stats)
 
