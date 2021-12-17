@@ -7,6 +7,12 @@
 
 [Discord twinb0rn@7898](https://discordapp.com/users/454490251126374401) - [LinkedIn](https://www.linkedin.com/in/twinb0rn/) -
 
+<p align="center">
+<img src="https://img.shields.io/github/followers/reckoninghero?color=purple&logoColor=blue&style=social" />
+<a href="https://linkedin.com/in/twinb0rn" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-twinb0rn-blue" /></a>
+<a href="https://steamcommunity.com/id/reckoninghero" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Steam-reckoninghero-blue" /></a>
+</p>
+
 
 
 # About Me
