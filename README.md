@@ -2,7 +2,8 @@
 -------------
 
 <a href="https://leetcode.com/twinb0rn/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LeetCode-twinb0rn-blue" /></a>
-[HackerRank Profile](https://www.hackerrank.com/twinb0rn?hr_r=1) - [LeetCode Profile](https://leetcode.com/twinb0rn/) - [Binarysearch Profile](https://binarysearch.com/@/twinb0rn) - [Remote Profile ](https://remote.com/joshuan) - [Repl.it Profile](https://repl.it/@twinb0rn) - [GitLab](https://gitlab.com/twinb0rn)
+<a href="https://binarysearch.com/@/twinb0rn" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Binarysearch-twinb0rn-blue" /></a>
+[HackerRank Profile](https://www.hackerrank.com/twinb0rn?hr_r=1) - [LeetCode Profile](https://leetcode.com/twinb0rn/) - [Remote Profile ](https://remote.com/joshuan) - [Repl.it Profile](https://repl.it/@twinb0rn) - [GitLab](https://gitlab.com/twinb0rn)
 
 # Social Media
 -------------
