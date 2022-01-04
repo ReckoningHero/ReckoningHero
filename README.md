@@ -17,7 +17,7 @@
 
 <p align="center">
 <a href="https://steamcommunity.com/id/reckoninghero" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Steam-reckoninghero-blue" /></a>
-</p>
+
 
 
 <div>
@@ -31,6 +31,8 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
+
+</p>
 
 
 # About Me
