@@ -54,4 +54,10 @@ ____________________
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReckoningHero&show_icons=true&theme=radical" />
 </div>
 
+<div style="display=flex;">
+<a href="https://metrics.lecoq.io/about/Reckoninghero"><img src="github-metrics-summary.svg" width="47.5%"></img></a>
+<a href="https://metrics.lecoq.io/about/Reckoninghero"><img src="github-metrics-plugins.svg" width="47.5%"></img></a>
+</div>
+
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ReckoningHero.visitorbadge)
