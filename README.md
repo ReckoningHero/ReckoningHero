@@ -3,10 +3,10 @@
 <p align="center">
 <a href="https://leetcode.com/twinb0rn/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LeetCode-twinb0rn-blue" /></a>
 <a href="https://binarysearch.com/@/twinb0rn" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Binarysearch-twinb0rn-blue" /></a>
-  <a href="https://www.hackerrank.com/twinb0rn?hr_r=1" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Binarysearch-twinb0rn-blue" /></a>
-  <a href="https://remote.com/joshuan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Binarysearch-twinb0rn-blue" /></a>
-  <a href="https://repl.it/@twinb0rn" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Binarysearch-twinb0rn-blue" /></a>
-  <a href="(https://gitlab.com/twinb0rn" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Binarysearch-twinb0rn-blue" /></a>
+  <a href="https://www.hackerrank.com/twinb0rn?hr_r=1" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/HackerRank-twinb0rn-blue" /></a>
+  <a href="https://remote.com/joshuan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Remote-twinb0rn-blue" /></a>
+  <a href="https://repl.it/@twinb0rn" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/repl.it-twinb0rn-blue" /></a>
+  <a href="(https://gitlab.com/twinb0rn" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gitlab-twinb0rn-blue" /></a>
 </p>
 
 # 3D Guild Sites
