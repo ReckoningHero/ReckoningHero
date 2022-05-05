@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href=" https://www.upwork.com/freelancers/~0151298ff78b5bab55" target ="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
        
   <a href="https://discordapp.com/users/454490251126374401" target="blank">
