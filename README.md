@@ -20,11 +20,13 @@
 
 <p align="center">
 <a href="https://steamcommunity.com/id/reckoninghero" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Steam-reckoninghero-blue" /></a>
-
-
-  <a href="https://linkedin.com/in/twinb0rn" target="_blank">
+  <a href="https://linkedin.com/in/twinb0rn" target="_blank"> 
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <a href=" https://www.upwork.com/freelancers/~0151298ff78b5bab55" target ="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+       
   <a href="https://discordapp.com/users/454490251126374401" target="blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="twinb0rn#7898">
   </a>
