@@ -11,6 +11,7 @@
 
 # Tech Stacks
 -------------
+<div align="center">
 ## Languages
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![C](https://skillicons.dev/icons?i=c)](https://gcc.gnu.org/)
@@ -33,7 +34,7 @@
 [![Azure](https://skillicons.dev/icons?i=azure)](https://portal.azure.com/?quickstart=true#home)
 [![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
 
-
+</div>
 
 # 3D Guild Sites
 -------------
