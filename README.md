@@ -18,9 +18,13 @@
 [![C#](https://skillicons.dev/icons?i=cs)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en/docs/Web/JavaScript)
 
+## Frameworks, Database, Others
+[![.NET](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/en-us/)
+[![sqlite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/download.html)
+
 ## GameDev
 [![Unity3D](https://skillicons.dev/icons?i=unity)](https://unity.com/)
-[![Unity3D](https://skillicons.dev/icons?i=unreal)](https://www.unrealengine.com/en-US/)
+[![UnrealEngine](https://skillicons.dev/icons?i=unreal)](https://www.unrealengine.com/en-US/)
 
 ## Design
 [![Blender](https://skillicons.dev/icons?i=blender)](https://www.blender.org/)
