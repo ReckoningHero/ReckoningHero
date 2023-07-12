@@ -9,20 +9,20 @@
   <a href="(https://gitlab.com/twinb0rn" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gitlab-twinb0rn-blue" /></a>
 </p>
 
-# Languages
+# Tech Stacks
+-------------
+## Languages
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![C](https://skillicons.dev/icons?i=c)](https://gcc.gnu.org/)
 [![C++](https://skillicons.dev/icons?i=cpp)](https://clang.llvm.org/cxx_status.html)
 [![C#](https://skillicons.dev/icons?i=cs)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en/docs/Web/JavaScript)
 
-# GameDev
--------------
+## GameDev
 [![Unity3D](https://skillicons.dev/icons?i=unity)](https://unity.com/)
 [![Unity3D](https://skillicons.dev/icons?i=unreal)](https://www.unrealengine.com/en-US/)
 
-# Design
--------------
+## Design
 [![Blender](https://skillicons.dev/icons?i=blender)](https://www.blender.org/)
 
 
