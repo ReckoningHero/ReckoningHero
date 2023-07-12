@@ -9,8 +9,6 @@
   <a href="(https://gitlab.com/twinb0rn" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gitlab-twinb0rn-blue" /></a>
 </p>
 
-# Skills
--------------
 ## Languages
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![C](https://skillicons.dev/icons?i=c)](https://gcc.gnu.org/)
