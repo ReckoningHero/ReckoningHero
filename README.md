@@ -26,7 +26,9 @@
 [![Blender](https://skillicons.dev/icons?i=blender)](https://www.blender.org/)
 
 ## Cloud Computing
-[![Blender](https://skillicons.dev/icons?i=blender)](https://www.blender.org/)
+[![Azure](https://skillicons.dev/icons?i=azure)](https://portal.azure.com/?quickstart=true#home)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
+
 
 
 # 3D Guild Sites
