@@ -12,6 +12,7 @@
 # Tech Stacks
 -------------
 <div align="center">
+  
 ## Languages
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![C](https://skillicons.dev/icons?i=c)](https://gcc.gnu.org/)
