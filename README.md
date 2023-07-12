@@ -15,38 +15,48 @@
 ## Languages
 
 <div align="center">
+  
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![C](https://skillicons.dev/icons?i=c)](https://gcc.gnu.org/)
 [![C++](https://skillicons.dev/icons?i=cpp)](https://clang.llvm.org/cxx_status.html)
 [![C#](https://skillicons.dev/icons?i=cs)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en/docs/Web/JavaScript)
+
 </div>
 
 ## Frameworks, Database, Others
 
 <div align="center">
+  
 [![.NET](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/en-us/)
 [![sqlite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/download.html)
+
 </div>
 
 ## GameDev
 
 <div align="center">
+  
 [![Unity3D](https://skillicons.dev/icons?i=unity)](https://unity.com/)
 [![UnrealEngine](https://skillicons.dev/icons?i=unreal)](https://www.unrealengine.com/en-US/)
+
 </div>
 
 ## Design
 
 <div align="center">
+  
 [![Blender](https://skillicons.dev/icons?i=blender)](https://www.blender.org/)
+
 </div>
 
 ## Cloud Computing
 
 <div align="center">
+  
 [![Azure](https://skillicons.dev/icons?i=azure)](https://portal.azure.com/?quickstart=true#home)
 [![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
+
 </div>
 
 # 3D Guild Sites
